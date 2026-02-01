@@ -1,1 +1,1 @@
-<a href="https://pinterest-ui.netlify.app/">Demo</a>
+<a href="https://pinterest-ui.netlify.app/">Demo Link</a>
